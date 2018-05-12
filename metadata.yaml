@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5055
     wikipedia: http://en.wikipedia.org/wiki/Edward_Harold_Begbie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13457#The-Bed-Book-of-Happiness--13-Being-a-colligation-or-assemblage-of-cheerful-writings-brought-_
 gutenberg_issued: '2004-09-14'
 gutenberg_type: Text
 identifiers:
